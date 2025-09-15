@@ -1,29 +1,59 @@
-🔥 Saruix – Full-Stack Web Engineering, Elevated
+# 👋 Hello World, I'm Ronis Saru — aka **Saruix**!
 
-Welcome to Saruix, where clean code meets next-level digital experiences.
-I’m Ronis Saru, a passionate full-stack web developer crafting fast, dynamic, and scalable solutions with PHP, JavaScript, AJAX, and MySQL.
+### 🚀 Full Stack Developer | 🛠️ Code Artisan | 🧠 Tech Explorer
 
-From sleek, intuitive frontends to rock-solid backends, Saruix delivers seamless, user-focused websites and apps that perform flawlessly — secure, speedy, and built for the future.
+---
 
-🚀 What I Bring to the Table:
+> *"Building with precision, scaling with passion."*
 
-Full-stack web development ⚙️
+![Profile Views](https://komarev.com/ghpvc/?username=Saruix&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/Saruix?label=Follow%20Me&style=social)
 
-Custom PHP solutions 🐘
+---
 
-AJAX-powered interactivity ⚡
+### 💻 Tech Stack
 
-Responsive, modern frontends 🎨
+I'm a full stack developer who thrives in both front-end finesse and back-end logic.
 
-Scalable MySQL databases 🗄️
+**Languages & Frameworks:**
+  
+- 💡 `PHP` • `Python` • `JavaScript` • `AJAX`
+- 🎨 `HTML5` • `CSS3` • `SASS` • `Bootstrap`
+- ⚙️ `jQuery` • `React (learning)` • `Laravel` • `Flask`
 
-💡 Why Choose Saruix?
-Because your vision deserves code that’s not just functional, but elegant and efficient.
+**Database & Tools:**
 
-Let’s build something that truly clicks. 🤝
+- 🗄️ `MySQL` • `SQLite`
+- 🔧 `Git` • `GitHub` • `VS Code` • `Postman`
 
-Want me to make it more formal, casual, or creative?
+---
 
+### 📈 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saruix&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saruix&theme=radical" width="48%" />
+</div>
 
+---
 
+### 🌐 Connect with Me
+
+[![Portfolio](https://img.shields.io/badge/🌍%20Portfolio-Coming%20Soon-informational)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saruix-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-@Saruix__-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Saruix__)
+[![Mail](https://img.shields.io/badge/Email-Contact_Me-informational?logo=gmail)](mailto:your.email@example.com)
+
+---
+
+### ✨ A Bit About Me
+
+```yaml
+name: Ronis Saru
+alias: Saruix
+role: Full Stack Developer
+experience: 5+ years
+code_philosophy: "Clean code, smart architecture, and a touch of creativity"
+currently_learning: "Advanced React, DevOps fundamentals"
+fun_fact: >
+  I probably debug your code before you even ask. 🧙‍♂️
